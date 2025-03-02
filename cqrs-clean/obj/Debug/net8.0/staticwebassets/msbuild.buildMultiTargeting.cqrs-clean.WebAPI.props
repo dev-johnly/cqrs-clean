@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cqrs-clean.WebAPI.props" />
+</Project>
