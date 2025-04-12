@@ -48,11 +48,15 @@ cd clean-architecture-api
 ### 3. Run database migrations:
 dotnet ef database update
 
-#### Project Structure
- Application/        - Application logic, CQRS handlers
- Domain/             - Domain entities and interfaces
- Infrastructure/     - Data access, external integrations
- API/                - API endpoints and configuration
+## Project Structure
+
+```text
+src/
+├── Application/        - Application logic, CQRS handlers
+├── Domain/             - Domain entities and interfaces
+├── Infrastructure/     - Data access, external integrations
+├── API/                - API endpoints and configuration
+```
 
 #### API Documentation
 https://localhost:{port}/swagger
