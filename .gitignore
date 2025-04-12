@@ -1,0 +1,9 @@
+/cqrs-clean.Application/bin
+/cqrs-clean.Application/obj
+/cqrs-clean.Domain/bin
+/cqrs-clean.Domain/obj
+/cqrs-clean.Infrastructure/bin
+/cqrs-clean.Infrastructure/obj
+/cqrs-clean.API/obj
+/cqrs-clean.API/bin
+/cqrs-clean/bin
