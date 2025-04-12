@@ -1,4 +1,5 @@
-﻿using cqrs_clean.Application.Users.DTOs;
+﻿using cqrs_clean.Application.Common;
+using cqrs_clean.Application.Users.DTOs;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace cqrs_clean.Application.Users.Queries;
-public class GetUserByIdQuery : IRequest<UserDto>
+public class GetUserByIdQuery : IRequest<ApiResponse<UserDto>>
 {
     public int Id { get; set; }
 

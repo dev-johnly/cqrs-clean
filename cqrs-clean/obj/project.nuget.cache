@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "VyTVXAQbOeQ=",
+  "dgSpecHash": "2pLh4GEckq4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean\\cqrs-clean.API.csproj",
+  "projectFilePath": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean\\cqrs-clean.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnly-oroy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\johnly-oroy\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\johnly-oroy\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\johnly-oroy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\johnly-oroy\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\johnly-oroy\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\johnly-oroy\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\johnly-oroy\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\johnly-oroy\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

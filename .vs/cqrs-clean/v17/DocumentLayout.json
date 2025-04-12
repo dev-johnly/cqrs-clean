@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354A130-CC69-45CC-BD86-1342B9B7A8CF}|cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354A130-CC69-45CC-BD86-1342B9B7A8CF}|cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj|solutionrelative:cqrs-clean.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354A130-CC69-45CC-BD86-1342B9B7A8CF}|cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354A130-CC69-45CC-BD86-1342B9B7A8CF}|cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj|solutionrelative:cqrs-clean.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\helper\\bcrypthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\helper\\bcrypthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F4529-8CFA-4BB6-9DBE-2D0C8C2B3CC7}|cqrs-clean\\cqrs-clean.API.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63F4529-8CFA-4BB6-9DBE-2D0C8C2B3CC7}|cqrs-clean\\cqrs-clean.API.csproj|solutionrelative:cqrs-clean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\handlers\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\handlers\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\mappingprofile\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\mappingprofile\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\handlers\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\handlers\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\handlers\\getuserbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\handlers\\getuserbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F4529-8CFA-4BB6-9DBE-2D0C8C2B3CC7}|cqrs-clean\\cqrs-clean.API.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63F4529-8CFA-4BB6-9DBE-2D0C8C2B3CC7}|cqrs-clean\\cqrs-clean.API.csproj|solutionrelative:cqrs-clean\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\handlers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\handlers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\handlers\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\handlers\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5D7726-EF41-4E63-A567-1FD1F4EEE793}|cqrs-clean.Domain\\cqrs-clean.Domain.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5D7726-EF41-4E63-A567-1FD1F4EEE793}|cqrs-clean.Domain\\cqrs-clean.Domain.csproj|solutionrelative:cqrs-clean.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\cqrs-clean.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\cqrs-clean.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F4529-8CFA-4BB6-9DBE-2D0C8C2B3CC7}|cqrs-clean\\cqrs-clean.API.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean\\cqrs-clean.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A63F4529-8CFA-4BB6-9DBE-2D0C8C2B3CC7}|cqrs-clean\\cqrs-clean.API.csproj|solutionrelative:cqrs-clean\\cqrs-clean.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354A130-CC69-45CC-BD86-1342B9B7A8CF}|cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.infrastructure\\cqrs-clean.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9354A130-CC69-45CC-BD86-1342B9B7A8CF}|cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj|solutionrelative:cqrs-clean.infrastructure\\cqrs-clean.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5D7726-EF41-4E63-A567-1FD1F4EEE793}|cqrs-clean.Domain\\cqrs-clean.Domain.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.domain\\cqrs-clean.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC5D7726-EF41-4E63-A567-1FD1F4EEE793}|cqrs-clean.Domain\\cqrs-clean.Domain.csproj|solutionrelative:cqrs-clean.domain\\cqrs-clean.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\common\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\common\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean.application\\users\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D43DCF1-4457-4DC2-94FA-C2359B348EDE}|cqrs-clean.Application\\cqrs-clean.Application.csproj|solutionrelative:cqrs-clean.application\\users\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63F4529-8CFA-4BB6-9DBE-2D0C8C2B3CC7}|cqrs-clean\\cqrs-clean.API.csproj|c:\\users\\johnly-oroy\\documents\\github\\cqrs-clean\\cqrs-clean\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A63F4529-8CFA-4BB6-9DBE-2D0C8C2B3CC7}|cqrs-clean\\cqrs-clean.API.csproj|solutionrelative:cqrs-clean\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 213,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BCryptHelper.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Helper\\BCryptHelper.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Helper\\BCryptHelper.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Helper\\BCryptHelper.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Helper\\BCryptHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:35:09.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\MappingProfile\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\MappingProfile\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\MappingProfile\\MappingConfig.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\MappingProfile\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:33:39.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Common\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Common\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Common\\PaginatedList.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Common\\PaginatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:25:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Common\\ApiResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:24:41.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetUserByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\GetUserByIdHandler.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Handlers\\GetUserByIdHandler.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\GetUserByIdHandler.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Handlers\\GetUserByIdHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:03:15.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:39:50.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Queries\\GetAllUsersQuery.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Queries\\GetAllUsersQuery.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Queries\\GetAllUsersQuery.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Queries\\GetAllUsersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:39:42.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Commands\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Commands\\DeleteUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:17:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\UpdateUserHandler.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Handlers\\UpdateUserHandler.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\UpdateUserHandler.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Handlers\\UpdateUserHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:57:33.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Commands\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Commands\\UpdateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:57:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\DeleteUserHandler.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Handlers\\DeleteUserHandler.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\DeleteUserHandler.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Handlers\\DeleteUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:34:43.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:32:47.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Handlers\\CreateUserHandler.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\CreateUserHandler.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Handlers\\CreateUserHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA9wBgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:28:24.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "cqrs-clean\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "cqrs-clean\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAawCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:24:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\GetAllUsersHandler.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Handlers\\GetAllUsersHandler.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Handlers\\GetAllUsersHandler.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Handlers\\GetAllUsersHandler.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAD4vykAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:39:27.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\Users\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\Users\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:41:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "cqrs-clean.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:38:23.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "cqrs-clean.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:00:21.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "cqrs-clean.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvx0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:59:10.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean\\appsettings.json",
+              "RelativeDocumentMoniker": "cqrs-clean\\appsettings.json",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean\\appsettings.json",
+              "RelativeToolTip": "cqrs-clean\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T06:56:22.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "cqrs-clean.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "cqrs-clean.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:55:18.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean\\Program.cs",
+              "RelativeDocumentMoniker": "cqrs-clean\\Program.cs",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean\\Program.cs",
+              "RelativeToolTip": "cqrs-clean\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:54:58.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "cqrs-clean.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj",
+              "RelativeToolTip": "cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T06:24:59.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "cqrs-clean.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj",
+              "RelativeDocumentMoniker": "cqrs-clean.Domain\\cqrs-clean.Domain.csproj",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj",
+              "RelativeToolTip": "cqrs-clean.Domain\\cqrs-clean.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T06:24:56.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cqrs-clean.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\cqrs-clean.Application.csproj",
+              "RelativeDocumentMoniker": "cqrs-clean.Application\\cqrs-clean.Application.csproj",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Application\\cqrs-clean.Application.csproj",
+              "RelativeToolTip": "cqrs-clean.Application\\cqrs-clean.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T06:22:22.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "cqrs-clean.API.csproj",
+              "DocumentMoniker": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean\\cqrs-clean.API.csproj",
+              "RelativeDocumentMoniker": "cqrs-clean\\cqrs-clean.API.csproj",
+              "ToolTip": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean\\cqrs-clean.API.csproj",
+              "RelativeToolTip": "cqrs-clean\\cqrs-clean.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T06:08:50.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

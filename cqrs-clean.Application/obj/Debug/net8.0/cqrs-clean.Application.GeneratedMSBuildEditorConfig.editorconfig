@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = cqrs_clean.Application
-build_property.ProjectDir = C:\Users\johnly-oroy\source\repos\cqrs-clean\cqrs-clean.Application\
+build_property.ProjectDir = C:\Users\johnly-oroy\Documents\GitHub\cqrs-clean\cqrs-clean.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

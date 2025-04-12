@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj": {}
+    "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj": {
+    "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj",
         "projectName": "cqrs-clean.Domain",
-        "projectPath": "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj",
+        "projectPath": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj",
         "packagesPath": "C:\\Users\\johnly-oroy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Domain\\obj\\",
+        "outputPath": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj": {
+    "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj",
         "projectName": "cqrs-clean.Infrastructure",
-        "projectPath": "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\cqrs-clean.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\johnly-oroy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj": {
-                "projectPath": "C:\\Users\\johnly-oroy\\source\\repos\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj"
+              "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj": {
+                "projectPath": "C:\\Users\\johnly-oroy\\Documents\\GitHub\\cqrs-clean\\cqrs-clean.Domain\\cqrs-clean.Domain.csproj"
               }
             }
           }

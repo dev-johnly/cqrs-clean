@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using cqrs_clean.Application.Common;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace cqrs_clean.Application.Users.Commands;
 
-public class DeleteUserCommand : IRequest<bool>
+public class DeleteUserCommand : IRequest<ApiResponse>
 {
     public int Id { get; set; }
 }

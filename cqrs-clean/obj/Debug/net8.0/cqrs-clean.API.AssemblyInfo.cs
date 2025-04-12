@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cqrs-clean.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14bba423b1a7f15e525179dee04489e3f81c7923")]
 [assembly: System.Reflection.AssemblyProductAttribute("cqrs-clean.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cqrs-clean.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
