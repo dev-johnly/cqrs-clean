@@ -41,7 +41,7 @@ A clean and modular ASP.NET Core Web API template following the **Clean Architec
 
 ### 1. Clone the Repository
 git clone https://github.com/yourusername/clean-architecture-api.git
-cd clean-architecture-api
+cd cqrs-clean
 
 ### 2. Update the connection string in appsettings.json.
 
