@@ -49,18 +49,18 @@ cd clean-architecture-api
 ###3 Run database migrations:
 dotnet ef database update
 
-#Project Structure
+#### Project Structure
 src/
 ├── Application/        - Application logic, CQRS handlers
 ├── Domain/             - Domain entities and interfaces
 ├── Infrastructure/     - Data access, external integrations
 ├── API/                - API endpoints and configuration
 
-#API Documentation
+#### API Documentation
 https://localhost:{port}/swagger
 
-#Contributing
+#### Contributing
 Contributions are welcome. Fork the repo and submit a pull request.
 
-License
-#This project is licensed under the MIT License.
+### License
+This project is licensed under the MIT License.
