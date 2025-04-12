@@ -1,4 +1,3 @@
-<img style="border-radius: 15px;" src="https://raw.githubusercontent.com/yourusername/your-repo/main/assets/banner.png" />
 
 # CQRS Clean Architecture API Template
 
