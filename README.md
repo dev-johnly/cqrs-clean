@@ -36,7 +36,6 @@ A clean and modular ASP.NET Core Web API template following the **Clean Architec
 | [EF Core]         | ORM for database access                     |
 | [Swagger]         | API documentation and testing UI            |
 | [SQL Server]      | Relational database for persistence         |
-|-----------------------------------------------------------------|
 
 ## Getting Started
 
