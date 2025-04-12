@@ -49,11 +49,10 @@ cd clean-architecture-api
 dotnet ef database update
 
 #### Project Structure
-src/
-├── Application/        - Application logic, CQRS handlers
-├── Domain/             - Domain entities and interfaces
-├── Infrastructure/     - Data access, external integrations
-├── API/                - API endpoints and configuration
+ Application/        - Application logic, CQRS handlers
+ Domain/             - Domain entities and interfaces
+ Infrastructure/     - Data access, external integrations
+ API/                - API endpoints and configuration
 
 #### API Documentation
 https://localhost:{port}/swagger
