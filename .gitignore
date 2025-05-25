@@ -7,3 +7,5 @@
 /cqrs-clean.API/obj
 /cqrs-clean.API/bin
 /cqrs-clean/bin
+/cqrs-clean/obj
+/.vs

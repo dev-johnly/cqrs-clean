@@ -31,9 +31,15 @@ namespace cqrs_clean.Infrastructure.Persistence.Users
          return await _unitOfWork.Users.ExistsAsync(username);
         }
 
-        public async Task<User?> GetByIdAsync(int id)
+        public async Task<ApiResponse<UserDto>> GetByIdAsync(int id)
         {
-           return await _unitOfWork.Users.GetByIdAsync(id);
+           var user =  await _unitOfWork.Users.GetByIdAsync(id);
+           if (user == null) 
+                return ApiResponse<UserDto>.Failure("User not found");
+
+            var userDto = user.Adapt<UserDto>();
+
+            return ApiResponse<UserDto>.Success(userDto);
         }
 
         public async Task<PaginatedList<UserDto>> GetPaginatedUsersAsync(

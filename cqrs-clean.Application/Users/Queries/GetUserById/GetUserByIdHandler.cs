@@ -21,9 +21,8 @@ public class GetUserByIdHandler : IRequestHandler<GetUserByIdQuery, ApiResponse<
     }
     public async Task<ApiResponse<UserDto>> Handle(GetUserByIdQuery request, CancellationToken cancellationToken)
     {
-        var user = await _userService.GetByIdAsync(request.Id);
-        if (user == null) return ApiResponse<UserDto>.Failure("User not found");
-        var userDto = user.Adapt<UserDto>();
-        return ApiResponse<UserDto>.Success(userDto);
+        var response = await _userService.GetByIdAsync(request.Id);
+
+        return ApiResponse<UserDto>.Success(response.Data);
     }
 }

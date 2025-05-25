@@ -10,7 +10,7 @@ namespace cqrs_clean.Application.Users.Interfaces
 {
     public interface IUserService
     {
-        Task<User?> GetByIdAsync(int id);
+        Task<ApiResponse<UserDto>> GetByIdAsync(int id);
         Task AddAsync(User user);
         Task<bool> ExistsAsync(string username);
         Task DeleteAsync(int id);
