@@ -1,6 +1,10 @@
 ﻿using cqrs_clean.Application.Users.Commands;
+using cqrs_clean.Application.Users.Commands.DeleteUser;
+using cqrs_clean.Application.Users.Commands.UpdateUser;
 using cqrs_clean.Application.Users.DTOs;
 using cqrs_clean.Application.Users.Queries;
+using cqrs_clean.Application.Users.Queries.GetAllUsers;
+using cqrs_clean.Application.Users.Queries.GetUserById;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -31,9 +35,10 @@ public class UsersController : ControllerBase
     }
 
     [HttpGet("GetAllUsers")]
-    public async Task<ActionResult<List<UserDto>>> GetAllUsers()
+    public async Task<IActionResult> GetAllUsers([FromQuery] GetAllUsersQuery query)
     {
-        return Ok(await _mediator.Send(new GetAllUsersQuery()));
+        var result = await _mediator.Send(query);
+        return Ok(result);
     }
 
     [HttpPut("UpdateUser")]

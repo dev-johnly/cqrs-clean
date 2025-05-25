@@ -8,11 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\cqrs-clean.Application\cqrs-clean.Application.csproj" />
     <ProjectReference Include="..\cqrs-clean.Domain\cqrs-clean.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Persistence\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,9 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace cqrs_clean.Application.Common;
 
@@ -33,6 +28,24 @@ public class PaginatedList<T>
         var items = await source.Skip((pageIndex - 1) * pageSize)
                                 .Take(pageSize)
                                 .ToListAsync();
+        var totalPages = (int)Math.Ceiling(count / (double)pageSize);
+
+        return new PaginatedList<T>(items, pageIndex, totalPages, count);
+    }
+
+    public static async Task<PaginatedList<T>> CreateAsync(
+    IQueryable<T> source,
+    int pageIndex = 1,
+    int pageSize = 10,
+    CancellationToken cancellationToken = default)
+    {
+        pageIndex = Math.Max(pageIndex, 1);
+        pageSize = Math.Max(pageSize, 1);
+
+        var count = await source.CountAsync(cancellationToken);
+        var items = await source.Skip((pageIndex - 1) * pageSize)
+                                .Take(pageSize)
+                                .ToListAsync(cancellationToken);
         var totalPages = (int)Math.Ceiling(count / (double)pageSize);
 
         return new PaginatedList<T>(items, pageIndex, totalPages, count);

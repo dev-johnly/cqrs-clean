@@ -11,14 +11,14 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
-// Enable Swagger only in Development mode
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-        c.RoutePrefix = string.Empty; // Access Swagger UI at root URL
+        c.RoutePrefix = string.Empty;
     });
 }
 

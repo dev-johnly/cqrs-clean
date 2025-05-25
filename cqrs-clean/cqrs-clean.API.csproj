@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\cqrs-clean.Application\cqrs-clean.Application.csproj" />
+    <ProjectReference Include="..\cqrs-clean.Infrastructure\cqrs-clean.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

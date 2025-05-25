@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace cqrs_clean.Application.Users.Queries;
+namespace cqrs_clean.Application.Users.Queries.GetUserById;
 public class GetUserByIdQuery : IRequest<ApiResponse<UserDto>>
 {
     public int Id { get; set; }

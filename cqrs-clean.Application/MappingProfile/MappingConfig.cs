@@ -1,5 +1,6 @@
 ﻿using cqrs_clean.Application.Helper;
 using cqrs_clean.Application.Users.Commands;
+using cqrs_clean.Application.Users.Commands.UpdateUser;
 using Mapster;
 using System;
 using System.Collections.Generic;

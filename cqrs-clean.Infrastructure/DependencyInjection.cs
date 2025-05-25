@@ -1,11 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using cqrs_clean.Application.Users.Interfaces;
+using cqrs_clean.Domain.Common.Interfaces;
+using cqrs_clean.Infrastructure.Persistence;
+using cqrs_clean.Infrastructure.Persistence.Users;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace cqrs_clean.Infrastructure;
 
@@ -16,8 +15,14 @@ public static class DependencyInjection
         services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
+      
         services.AddScoped<AppDbContext>();
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
 
+        services.AddScoped<IUserRepository, UserRepository>();
+
+
+        services.AddScoped<IUserService, UserService>();
         return services;
     }
 }
