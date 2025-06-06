@@ -1,5 +1,4 @@
-﻿using cqrs_clean.Application.Users.Interfaces;
-using cqrs_clean.Domain.Common.Interfaces;
+﻿using cqrs_clean.Domain.Common.Interfaces;
 using cqrs_clean.Infrastructure.Persistence;
 using cqrs_clean.Infrastructure.Persistence.Users;
 using Microsoft.EntityFrameworkCore;
@@ -22,7 +21,6 @@ public static class DependencyInjection
         services.AddScoped<IUserRepository, UserRepository>();
 
 
-        services.AddScoped<IUserService, UserService>();
         return services;
     }
 }

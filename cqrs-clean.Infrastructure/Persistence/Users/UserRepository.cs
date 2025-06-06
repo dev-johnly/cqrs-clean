@@ -35,7 +35,7 @@ namespace cqrs_clean.Infrastructure.Persistence.Users
 
         public async Task DeleteAsync(int id)
         {
-            var ex = await _context.Users.FindAsync($"{id}");
+            var ex = await _context.Users.FindAsync(id);
             _context.Users.Remove(ex);
             await _context.SaveChangesAsync();
         }

@@ -1,28 +1,34 @@
 ﻿using cqrs_clean.Application.Common;
 using cqrs_clean.Application.Users.DTOs;
-using cqrs_clean.Application.Users.Interfaces;
+using cqrs_clean.Domain.Common.Interfaces;
 using Mapster;
 using MediatR;
 
 namespace cqrs_clean.Application.Users.Queries.GetAllUsers;
 public class GetAllUsersHandler : IRequestHandler<GetAllUsersQuery, PaginatedList<UserDto>>
 {
-    private readonly IUserService _userService;
+    private readonly IUnitOfWork _unitOfWork;
 
-    public GetAllUsersHandler(IUserService userService)
+    public GetAllUsersHandler(IUnitOfWork unitOfWork)
     {
-        _userService = userService;
+        _unitOfWork = unitOfWork;
     }
-
-
 
     public async Task<PaginatedList<UserDto>> Handle(GetAllUsersQuery request, CancellationToken cancellationToken)
     {
-        return await _userService.GetPaginatedUsersAsync(
-            pageIndex: request.PageIndex,
-            pageSize: request.PageSize,
-            searchTerm: request.SearchTerm,
-            cancellationToken: cancellationToken);
+        var query = _unitOfWork.Users
+        .GetAll() 
+        .Where(u => string.IsNullOrEmpty(request.SearchTerm) ||
+                    u.Username.Contains(request.SearchTerm) ||
+                    u.FullName.Contains(request.SearchTerm) ||
+                    u.Email.Contains(request.SearchTerm))
+        .ProjectToType<UserDto>(); 
+
+        return await PaginatedList<UserDto>.CreateAsync(
+            query,
+            request.PageIndex,
+            request.PageSize,
+            cancellationToken);
     }
 
 
